@@ -2,7 +2,7 @@
 ## Welcome! 👋
 
 ### Screenshot
-- Github IO- [Test it](https://na-r-84.github.io/Todo-List/)
+Github IO- [Test it](https://na-r-84.github.io/Todo-List/)
 ![](./screenshot.jpg)
 
 
